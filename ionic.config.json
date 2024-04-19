@@ -1,0 +1,7 @@
+{
+  "name": "NR v Mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

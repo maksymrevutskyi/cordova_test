@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Prevadzka</title>
+  <base href="/" target="_blank">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="prevádzka">
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <meta name="google" content="notranslate">
+
+  <!--<link rel="icon" type="image/x-icon" href="favicon.ico">-->
+  <!--<link rel="manifest" href="manifest.json">-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&amp;subset=latin-ext" rel="stylesheet">
+  <!--<link rel="manifest" href="https://test.mojafirma.online/api/mobile-applications/manifest">-->
+  <!--<link rel="manifest" href="manifest.json">-->
+  <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBk1aFE8XJF1SWKOWpEhi7m-66jSJDn214" type="text/javascript"></script><!-- JavaScript -->
+  <meta name="theme-color" content="#1976d2">
+  <style>
+    .version {
+      content: '04.03.2019 v3';
+    }
+    .loading-splash {
+      position: absolute;
+      top: 160px;
+      left: calc(50% - 32px);
+    }
+    .lds-ring {
+      display: inline-block;
+      position: relative;
+      width: 64px;
+      height: 64px;
+    }
+    .lds-ring div {
+      box-sizing: border-box;
+      display: block;
+      position: absolute;
+      width: 51px;
+      height: 51px;
+      margin: 6px;
+      border: 6px solid grey;
+      border-radius: 50%;
+      animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+      border-color: grey transparent transparent transparent;
+    }
+    .lds-ring div:nth-child(1) {
+      animation-delay: -0.45s;
+    }
+    .lds-ring div:nth-child(2) {
+      animation-delay: -0.3s;
+    }
+    .lds-ring div:nth-child(3) {
+      animation-delay: -0.15s;
+    }
+    @keyframes lds-ring {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+  <link rel="manifest" href="manifest.json">
+  <!-- include PWACompat _after_ your manifest -->
+<script async src="https://cdn.jsdelivr.net/npm/pwacompat@2.0.9/pwacompat.min.js"
+    integrity="sha384-VcI6S+HIsE80FVM1jgbd6WDFhzKYA0PecD/LcIyMQpT4fMJdijBh0I7Iblaacawc"
+    crossorigin="anonymous"></script>
+  <meta name="theme-color" content="#1976d2">
+<link rel="stylesheet" href="styles.05936853da393d963d23.css"></head>
+<body>
+  <app-root></app-root>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+  <div id="appLoader" class="loading-splash">
+    <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+  </div>
+  <script>
+    /*console.log('***********ADDING LINK TO MANIFEST TEST');
+    var manifestLink = document.createElement('link');
+    manifestLink.id = 'manifestLink';
+    manifestLink.rel = 'manifest';
+    manifestLink.href = 'https://test.mojafirma.online/api/mobile-applications/manifest/'+window.location.search;
+    document.head.appendChild(manifestLink);  */
+    // document.addEventListener("deviceready", onDeviceReady, false);
+    // function onDeviceReady() {
+    //   window.open = cordova.InAppBrowser.open;
+    // }
+  </script>
+  <script src="cordova.js"></script>
+<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="polyfills.7e61eeabe4f75fabb7d3.js"></script><script type="text/javascript" src="scripts.c12eb6b1b0e68faeff5c.js"></script><script type="text/javascript" src="main.cf4813a0eac54bbbd1c0.js"></script></body>
+</html>

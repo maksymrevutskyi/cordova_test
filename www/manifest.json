@@ -1,0 +1,23 @@
+{
+    "name": "Ostredok",
+    "short_name": "Ostredok",
+    "theme_color": "#1976d2",
+    "background_color": "#fafafa",
+    "display": "fullscreen",
+    "start_url": "/?standalone=1",
+    "manifest_version": 7,
+    "orientation": "portrait",
+    "description": "Aplikacia prevadzky",
+    "icons":[
+        {
+            "src":"assets/icons/8874-8874-Ostredok.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"assets/icons/8874-8874-Ostredok(1).png",
+            "sizes":"192x192",
+            "type":"image/png"
+        }
+    ]
+}

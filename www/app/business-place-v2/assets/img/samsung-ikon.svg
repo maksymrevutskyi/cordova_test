@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>B41F7D00-7943-4CB0-AE4A-A15662B32849</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Pridavanie-na-plochu---Android-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Another-browser" transform="translate(-217.000000, -346.000000)" fill-rule="nonzero">
+            <g id="ikon" transform="translate(217.000000, 346.000000)">
+                <g id="frame-icon" fill="#FFD300">
+                    <g id="Group-10">
+                        <rect id="Rectangle" x="0" y="0" width="26" height="26" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(5.000000, 5.000000)" stroke="#300300">
+                    <g id="Group-6">
+                        <path d="M0.892257478,4.70821954 L6.8662705,0.734132467 C7.53520617,0.289137023 8.40549274,0.287626639 9.07596896,0.73029753 L15.1019559,4.70885632 C15.6626468,5.07904325 16,5.70602343 16,6.3778959 L16,14 C16,15.1045695 15.1045695,16 14,16 L2,16 C0.8954305,16 1.11632554e-15,15.1045695 0,14 L0,6.37342419 C-7.48113156e-16,5.70401207 0.334903391,5.07898768 0.892257478,4.70821954 Z" id="Rectangle"></path>
+                        <path d="M5,9 L11,9" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M5,9 L11,9" id="Line" stroke-linecap="round" stroke-linejoin="round" transform="translate(8.000000, 9.000000) rotate(90.000000) translate(-8.000000, -9.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

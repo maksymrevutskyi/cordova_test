@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="160px" viewBox="0 0 90 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>sipka-ios</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="AddShortcut-iOS-v2" transform="translate(-212.000000, -426.000000)" stroke="#4A4A4A" stroke-width="2">
+            <g id="sipka-ios" transform="translate(255.317955, 508.904020) scale(-1, 1) rotate(102.000000) translate(-255.317955, -508.904020) translate(181.317955, 440.404020)">
+                <path d="M9.51541794,128.404143 C81.3043764,131.08783 120.483486,91.19802 127.052748,8.73471366" id="Path-2" stroke-linejoin="round" stroke-dasharray="7,8" transform="translate(68.284083, 68.632867) rotate(9.000000) translate(-68.284083, -68.632867) "></path>
+                <path d="M128.809842,25.1243297 C139.059965,7.41673786 133.489764,7.61220695 145.515833,24.4491725" id="Path-4" transform="translate(137.162837, 18.478124) rotate(24.000000) translate(-137.162837, -18.478124) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

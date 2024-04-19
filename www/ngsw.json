@@ -1,0 +1,84 @@
+{
+  "configVersion": 1,
+  "timestamp": 1712590834096,
+  "index": "/index-prod.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/OneSignalSDKUpdaterWorker.js",
+        "/OneSignalSDKWorker.js",
+        "/index.html",
+        "/main.cf4813a0eac54bbbd1c0.js",
+        "/polyfills.7e61eeabe4f75fabb7d3.js",
+        "/runtime.26209474bfa8dc87a77c.js",
+        "/scripts.c12eb6b1b0e68faeff5c.js",
+        "/styles.05936853da393d963d23.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/8874-8874-Ostredok(1).png",
+        "/assets/icons/8874-8874-Ostredok.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/install_btn.f75d3bd40fdbaf81dca2.svg",
+        "/phonehand.b7f98bcfa8095ef9eee4.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/OneSignalSDKUpdaterWorker.js": "9d5c9f646ae71a29110e128af1c370b709ec0863",
+    "/OneSignalSDKWorker.js": "9d5c9f646ae71a29110e128af1c370b709ec0863",
+    "/assets/icons/8874-8874-Ostredok(1).png": "1d0400ecaffe52f832cbf4a0d53b0cc5a6c06599",
+    "/assets/icons/8874-8874-Ostredok.png": "35397156b1e01e4b8272ad73f0f0e7bdf647e385",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/index.html": "5df73455d3949cf245bd5b9d9e197ceabb4e8a35",
+    "/install_btn.f75d3bd40fdbaf81dca2.svg": "28ce9a800240d60a58b53c7d2a3ea05d483029e8",
+    "/main.cf4813a0eac54bbbd1c0.js": "892481efe76e0d231619e841d5a5dacf00294732",
+    "/phonehand.b7f98bcfa8095ef9eee4.jpg": "9533156cfcd96c34474eb2c5769d540ae6c21d49",
+    "/polyfills.7e61eeabe4f75fabb7d3.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/scripts.c12eb6b1b0e68faeff5c.js": "7a8f250f2eb08c7104f6653c543f811419889258",
+    "/styles.05936853da393d963d23.css": "9e28936b3b247ef2f08d1883eb2c8f6ca18305db"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
